@@ -1,6 +1,6 @@
 # Regularization in Neural Networks
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the importance of **regularization in Artificial Neural Networks (ANNs)** to reduce overfitting and improve model generalization.
 
@@ -8,7 +8,7 @@ The notebook uses the **make_moons** dataset with added noise to create a non-li
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The main objectives of this project are:
 
@@ -46,7 +46,7 @@ The noisy dataset provides a useful environment for observing how a neural netwo
 
 ---
 
-## 🧠 What is Regularization?
+## What is Regularization?
 
 **Regularization** is a technique used to reduce overfitting by controlling the complexity of a machine learning model.
 
@@ -56,7 +56,7 @@ Regularization encourages the model to learn simpler and more useful patterns th
 
 ---
 
-## 🔬 Project Workflow
+## Project Workflow
 
 The notebook follows a practical workflow:
 
@@ -72,7 +72,7 @@ The notebook follows a practical workflow:
 
 ---
 
-## 📚 Concepts Covered
+## Concepts Covered
 
 * Artificial Neural Networks
 * Binary Classification
@@ -86,7 +86,7 @@ The notebook follows a practical workflow:
 
 ---
 
-## 🔑 Key Learnings
+## Key Learnings
 
 ### 1. Neural Networks Can Overfit
 
@@ -106,7 +106,7 @@ The noise introduced into the `make_moons` dataset makes it easier to observe th
 
 ---
 
-## 📈 Visualization
+## Visualization
 
 The notebook focuses on visualizing the model's behavior, including:
 
@@ -120,7 +120,7 @@ These visualizations make it easier to understand how regularization changes the
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **NumPy**
@@ -133,7 +133,7 @@ These visualizations make it easier to understand how regularization changes the
 
 ---
 
-## 📖 Learning Outcome
+## Learning Outcome
 
 After completing this project, I gained a better understanding of:
 
@@ -145,7 +145,7 @@ After completing this project, I gained a better understanding of:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible extensions include:
 
@@ -160,7 +160,7 @@ Possible extensions include:
 
 ---
 
-## 💡 Project Purpose
+## Project Purpose
 
 This project is part of my **Deep Learning learning journey**, focused on understanding how regularization techniques help neural networks avoid overfitting.
 
@@ -168,7 +168,7 @@ The goal is to understand not only **how regularization is implemented**, but al
 
 ---
 
-## ⭐ Final Takeaway
+## Final Takeaway
 
 **A powerful neural network is not necessarily a good neural network.**
 
