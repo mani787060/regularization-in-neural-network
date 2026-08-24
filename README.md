@@ -21,7 +21,7 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the `make_moons` dataset from Scikit-learn.
 
@@ -34,6 +34,7 @@ make_moons(
 ```
 
 ### Dataset Characteristics
+
 
 * **Samples:** 100
 * **Problem Type:** Binary Classification
